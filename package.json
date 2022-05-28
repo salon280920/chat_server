@@ -1,0 +1,16 @@
+{
+  "name": "led-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ngrok": "^4.3.1",
+    "ws": "^7.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
